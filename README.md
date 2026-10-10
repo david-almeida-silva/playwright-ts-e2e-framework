@@ -68,5 +68,5 @@ A aplicação alvo dos testes é o e-commerce de demonstração [Swag Labs (Sauc
 
 ---
 
-Desenvolvido por **[Seu Nome]** 👋🏼 
+Desenvolvido por David Silva 👋🏼 
 - [LinkedIn](https://www.linkedin.com/in/david-almeida-silva/)
